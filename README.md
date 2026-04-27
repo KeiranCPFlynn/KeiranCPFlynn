@@ -1,39 +1,34 @@
 # Keiran Flynn
 
-Builder and founder based in Phuket, Thailand. I ship products independently
-across AI tooling, micropayment infrastructure, and consumer apps -- from zero
-to production, usually solo.
+Founder and builder based in Phuket, Thailand. I take products from idea to
+production independently -- AI tools, developer infrastructure, consumer apps.
 
 ## Projects
 
-### [LLMnesia](https://llmnesia.com)
-A local-first Chrome extension that indexes your AI conversations across
-ChatGPT, Claude, Gemini, Perplexity, and more into a single searchable
-interface. Your data never leaves your machine.
+### [LLMnesia](https://llmnesia.com) — Live
+Local-first Chrome extension that indexes your AI conversations across ChatGPT,
+Claude, Gemini, Perplexity, and more into a single searchable interface.
+Everything stays on your machine.
 
-### [LunaCradle](https://lunacradle.com)
-An AI-powered baby sleep planning app. Personalised plans generated from an
-intake form, targeting international parents. Built with Next.js, Supabase,
-Stripe, and Gemini 2.5 Pro.
+### [LunaCradle](https://lunacradle.com) — Live
+AI-powered baby sleep planning app. Personalised plans from a conversational
+intake form, built for international parents. Next.js, Supabase, Stripe, Gemini 2.5 Pro.
 
-### [Flow402](https://flow402.com)
-Micropayment infrastructure for AI agents using the HTTP 402 / x402 protocol
-and USDC on Base. Smart contracts, working proof-of-concept, YC application.
-Currently shelved.
+### [Flow402](https://flow402.com) — Shelved
+Micropayment infrastructure for AI agents over HTTP 402 / x402, settled in USDC
+on Base. Smart contracts built and deployed, YC application submitted.
 
 ## Stack
 
-TypeScript / Next.js / React -- Supabase -- Solidity / Foundry -- Node.js -- Stripe
+TypeScript · Next.js · React · Supabase · Node.js · Solidity / Foundry · Stripe
 
 ## Background
 
-- IT operations across 40+ schools (TechCallOut, 2003--2022)
-- Advanced Diploma, Audio Engineering -- Alchemea College (Distinction)
-- FdA Photography and Digital Imaging -- Manchester Metropolitan University (Distinction)
-- Solidity and smart contract development -- Cyfrin Updraft (advanced + auditor)
+- Strategic operator and coach -- working with founders on product, GTM, and execution
+- IT operations across 40+ schools, TechCallOut (2003--2022)
+- Advanced Diploma, Audio Engineering, Alchemea College (Distinction)
+- Solidity and smart contract development, Cyfrin Updraft (advanced + auditor)
 
 ## Contact
 
-- Email: freelymoving@gmail.com
-- LinkedIn: [linkedin.com/in/keiran-flynn](https://linkedin.com/in/keiran-flynn)
-- X: [@0xFlynnx](https://x.com/0xFlynnx)
+[freelymoving@gmail.com](mailto:freelymoving@gmail.com) · [LinkedIn](https://linkedin.com/in/keiran-flynn) · [X](https://x.com/0xFlynnx)
